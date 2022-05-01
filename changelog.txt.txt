@@ -1,0 +1,7 @@
+
+###----- Version 0.2 -------###
+
+Add: 
+	- add main menu
+	- add add jadielle level
+	- add level swap menu
