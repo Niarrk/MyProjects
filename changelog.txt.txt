@@ -5,3 +5,13 @@ Add:
 	- add main menu
 	- add add jadielle level
 	- add level swap menu
+
+
+###----- Version 0.4 -------###
+
+Add: 
+	- add attack mecanic
+
+Upgrade : 
+	- Palet town map's graphics
+	- physic are faster
