@@ -1,10 +1,8 @@
-
-###----- Version 0.2 -------###
-
+###----- Version 0.5 -------###
 Add: 
-	- add main menu
-	- add add jadielle level
-	- add level swap menu
+	- ambiant musics
+	- Viridian map's graphics
+	- Pokemon move system
 
 
 ###----- Version 0.4 -------###
@@ -15,3 +13,12 @@ Add:
 Upgrade : 
 	- Palet town map's graphics
 	- physic are faster
+
+
+###----- Version 0.2 -------###
+
+Add: 
+	- add main menu
+	- add add jadielle level
+	- add level swap menu
+
